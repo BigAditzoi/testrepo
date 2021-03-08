@@ -1,2 +1,2 @@
 # testrepo
-Courser repo
+Coursera repo
